@@ -7,6 +7,9 @@ _1 TIL_
 I don't blog. Maybe this will help me remember things I know I knew, but cannot
 remember well enough to repeat.
 
+### Bind
+- [Fix or Prevent Journal Out of Sync](bind/fix-prevent-bind-journal-out-of-sync.md)
+
 ## Other TIL Collections
 
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
@@ -18,4 +21,5 @@ remember well enough to repeat.
 
 &copy; 2015-2016 Tim Mathews
 
-This repository is licensed under the MIT license. See `LICENSE.md` for details.
+This repository is licensed under the CC0 Universal license. See `LICENSE.md`
+for details.
