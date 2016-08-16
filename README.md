@@ -10,6 +10,9 @@ remember well enough to repeat.
 ### Bind
 - [Fix or Prevent Journal Out of Sync](bind/fix-prevent-bind-journal-out-of-sync.md)
 
+### Man
+- [Colorize Man Pages](man/colorize-man-pages.md)
+
 ## Other TIL Collections
 
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
