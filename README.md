@@ -12,6 +12,7 @@ remember well enough to repeat.
 
 ### Man
 - [Colorize Man Pages](man/colorize-man-pages.md)
+- [PDF Man Pages](man/pdf-man-pages.md)
 
 ## Other TIL Collections
 
