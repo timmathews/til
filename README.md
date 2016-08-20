@@ -14,6 +14,9 @@ remember well enough to repeat.
 - [Colorize Man Pages](man/colorize-man-pages.md)
 - [PDF Man Pages](man/pdf-man-pages.md)
 
+### rsync
+- [Resume a Large Transfer](rsync/resume-large-transfer.md)
+
 ## Other TIL Collections
 
 * [Today I Learned by Hashrocket](https://til.hashrocket.com)
